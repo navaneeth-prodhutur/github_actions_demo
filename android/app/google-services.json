@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "862163489648",
+    "project_id": "sachin-be51e",
+    "storage_bucket": "sachin-be51e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862163489648:android:60172d6f651e8627edb5b5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_work_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862163489648-64pfhojlq8a72bf8tq4j717ama9l0vvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDImFg7QK8qhzBEw8Ok1bDkUd7DxlCI-VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862163489648-64pfhojlq8a72bf8tq4j717ama9l0vvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862163489648:android:e89f1cd45440f78eedb5b5",
+        "android_client_info": {
+          "package_name": "com.sachin.ngrhmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862163489648-64pfhojlq8a72bf8tq4j717ama9l0vvf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDImFg7QK8qhzBEw8Ok1bDkUd7DxlCI-VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862163489648-64pfhojlq8a72bf8tq4j717ama9l0vvf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
